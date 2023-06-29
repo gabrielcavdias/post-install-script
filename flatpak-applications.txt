@@ -1,0 +1,13 @@
+com.discordapp.Discord
+com.github.Eloston.UngoogledChromium
+com.github.Eloston.UngoogledChromium.Codecs
+com.github.neithern.g4music
+eu.betterbird.Betterbird
+net.ankiweb.Anki
+org.filezillaproject.Filezilla
+org.gimp.GIMP
+org.libretro.RetroArch
+org.mozilla.firefox
+org.onlyoffice.desktopeditors
+org.qbittorrent.qBittorrent
+org.videolan.VLC
